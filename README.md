@@ -25,7 +25,7 @@ Task manager sederhana dengan workflow automation engine. Dibangun menggunakan B
 
 **Langkah 1 — Clone dan jalankan semua service:**
 ```bash
-git clone <repository-url>
+git clone https://github.com/yogabagaskurniawan/ella-assessment.git
 cd ella-assessment
 docker-compose up --build
 ```
@@ -308,6 +308,6 @@ bun run db:seed
 
 ### Halaman Add / Update Workflow
 
-![Preview edit](https://github.com/yogabagaskurniawan/ella-assessment/blob/main/preview/preview/edit.png)
+![Preview edit](https://github.com/yogabagaskurniawan/ella-assessment/blob/main/preview/edit.png)
 
 ---
